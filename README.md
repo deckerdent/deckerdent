@@ -7,17 +7,17 @@ See the following sections for more information about me.
 
 # Personal 
 
-**Father** of a beautiful daughter.
-*Husband** of a charming wife. 
-**Handyman** of our home. 
-**Techie** with passion. 
+**Father** of a beautiful daughter.    
+*Husband** of a charming wife.    
+**Handyman** of our home.    
+**Techie** with passion.    
 
 # Professional
 
-Business Computing **Master Student**.
-**Product Owner** in agile Projects. 
-Java and JavaScript **developer**. 
-Process driven **industrian**.
+Business Computing **Master Student**.    
+**Product Owner** in agile Projects.    
+Java and JavaScript **developer**.    
+Process driven **industrian**.    
 
 
 
